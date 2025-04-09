@@ -33,7 +33,7 @@ Getting Started
 ---------------
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/backend-pubsub-system.git
+   git clone https://github.com/shubhamabad/backend-pubsub-system.git
    cd backend-pubsub-system
 
 2. Set up environment variables
