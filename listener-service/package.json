@@ -1,0 +1,16 @@
+{
+    "name": "listener-service",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/server.js",
+    "scripts": {
+        "start": "node src/server.js"
+    },
+    "author": "shubham jain",
+    "license": "MIT",
+    "dependencies": {
+        "mongoose": "^7.6.5",
+        "redis": "^4.6.10",
+        "dotenv": "^16.3.1"
+    }
+}
